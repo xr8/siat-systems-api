@@ -80,7 +80,7 @@ function configureByZone($zona)
     define("PASSWORD", "&);ud!.DGP^R5*v");
     define("DATABASE", 'siat_db');
 
-    define("DEFAULTROUTER", 'login/sign_in');
+    define("DEFAULTROUTER", 'api/');
 
     if ($zona == 'local') {
         // Configuración para local
