@@ -97,7 +97,7 @@ function configureByZone($zona)
         define("BASE_URL", 'siatgobcom.mx/');
         define("APP_URL", "//app." . BASE_URL);
         define("API_URL", "//api." . BASE_URL);
-        define("CDN_URL", "//cdn." . BASE_URL);
+        define("CDN_URL", "//cdn." . BASE_URL ."siat-CDN-app/");
         define("INDEX_PAGE", APP_URL . '');
     }
 }
