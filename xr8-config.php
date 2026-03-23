@@ -70,28 +70,19 @@ function setZoneAndTitle($host, $a_ngrok = []) {
 setZoneAndTitle($_SERVER['HTTP_HOST'], $a_ngrok);
 
 // Configuración basada en la zona
-function configureByZone($zona) {
+function configureByZone($zona)
+{
 
-  define("TITLE", PAGETITLE . "S. Systems v1 - ");
+    define("TITLE", PAGETITLE . "JM SIAT Systems v1 - ");
 
-  //DB Config
-  /*
-  72.167.70.29
-  sistema_db
-  siat_db
-  NWZFxr6av.GPPCeQ%l
-  utf8mb4_unicode_ci
-  http://localhost/server/php/siat-gob-mx-gobcom-mx/siat.gob.mx.gobcom.mx/siat.gob.mx.gobcom.mx/dashboard/
-  hs-systems-cdn/Drsystems-CDN-app/
-  */
-  define("HOSTNAME", '72.167.70.29:3306');
-  define("USERNAME", 'sistema_db');
-  define("PASSWORD", "NWZFxr6av.GPPCeQ%l");
-  define("DATABASE", 'siat_db');
+    define("HOSTNAME", '107.180.115.28');
+    define("USERNAME", 'sistema_db');
+    define("PASSWORD", "&);ud!.DGP^R5*v");
+    define("DATABASE", 'siat_db');
 
-  define("DEFAULTROUTER"       , 'api/');
+    define("DEFAULTROUTER", 'login/sign_in');
 
-    if ($zona == 'local') {        
+    if ($zona == 'local') {
         // Configuración para local
         define("BASE_URL", '//'      . $_SERVER['HTTP_HOST'] . '/server/php/siat-gob-mx-gobcom-mx/siat.gob.mx.gobcom.mx/siat.gob.mx.gobcom.mx/dashboard/');
         define("APP_URL", BASE_URL   . "siat-systems-app/");
@@ -103,10 +94,10 @@ function configureByZone($zona) {
         echo "ngrok";
     } elseif ($zona == 'web') {
         // Configuración para web
-        define("BASE_URL", 'gobcom.mx/');
-        define("APP_URL", "//app.". BASE_URL);
-        define("API_URL", "//api.". BASE_URL);
-        define("CDN_URL", "//cdn.". BASE_URL);
+        define("BASE_URL", 'siatgobcom.mx/');
+        define("APP_URL", "//app." . BASE_URL);
+        define("API_URL", "//api." . BASE_URL);
+        define("CDN_URL", "//cdn." . BASE_URL);
         define("INDEX_PAGE", APP_URL . '');
     }
 }
