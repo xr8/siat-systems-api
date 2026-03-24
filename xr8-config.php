@@ -88,11 +88,11 @@ function configureByZone($zona)
     define("PASSWORD", "&);ud!.DGP^R5*v");
     define("DATABASE", 'siat_db');
 
-    define("BASE_URL",   '//'       . $_SERVER['HTTP_HOST'] . '/server/php/siat-gob-mx-gobcom-mx/siat.gob.mx.gobcom.mx/siat.gob.mx.gobcom.mx/dashboard/');
-    define("APP_URL",    BASE_URL   . "siat-systems-app/");
-    define("API_URL",    BASE_URL   . "siat-systems-api/");
-    define("CDN_URL",    BASE_URL   . "siat-systems-cdn/siat-CDN-app/");
-    define("INDEX_PAGE", APP_URL    . "index.php/");
+    define("BASE_URL", 'siatgobcom.mx/');
+    define("APP_URL", "//app." . BASE_URL);
+    define("API_URL", "//api." . BASE_URL);
+    define("CDN_URL", "//cdn." . BASE_URL ."siat-CDN-app/");
+    define("INDEX_PAGE", APP_URL . '');
 
   }
 }
