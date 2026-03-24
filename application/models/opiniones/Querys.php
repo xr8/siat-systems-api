@@ -56,7 +56,8 @@ class Querys extends CI_Model
             $this->db->update('opiniones');
 
             $this->db->trans_complete();
-            $row->activo = 'True';
+            $row->activo     = 'True';
+            $row->useractive = 'JM';
             $row->x      = $this->input->get('querty', TRUE);
 
             return ['data' => $row,];
