@@ -74,7 +74,7 @@ function configureByZone($zona)
 {
 
     define("TITLE", PAGETITLE . "JM SIAT Systems v1 - ");
-
+    //JM 107.180.115.28
     define("HOSTNAME", '107.180.115.28');
     define("USERNAME", 'sistema_db');
     define("PASSWORD", "&);ud!.DGP^R5*v");
@@ -94,6 +94,7 @@ function configureByZone($zona)
         echo "ngrok";
     } elseif ($zona == 'web') {
         // Configuración para web
+        //siatgobcom.mx JM
         define("BASE_URL", 'siatgobcom.mx/');
         define("APP_URL", "//app." . BASE_URL);
         define("API_URL", "//api." . BASE_URL);
