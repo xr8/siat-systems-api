@@ -86,14 +86,13 @@ function configureByZone($zona)
     define("HOSTNAME", '107.180.115.28');
     define("USERNAME", 'sistema_db');
     define("PASSWORD", "&);ud!.DGP^R5*v");
-    define("DATABASE", 'siat_db');
+    define("DATABASE", 'jm_siat_db');
 
     define("BASE_URL", 'siatgobcom.mx/');
     define("APP_URL", "//app." . BASE_URL);
     define("API_URL", "//api." . BASE_URL);
     define("CDN_URL", "//cdn." . BASE_URL ."siat-CDN-app/");
     define("INDEX_PAGE", APP_URL . '');
-
   }
 }
 
