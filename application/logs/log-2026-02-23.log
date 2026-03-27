@@ -1,0 +1,13 @@
+ERROR - 2026-02-23 09:17:32 --> WorldTimeAPI no respondió
+ERROR - 2026-02-23 10:17:59 --> WorldTimeAPI no respondió
+ERROR - 2026-02-23 10:19:34 --> WorldTimeAPI no respondió
+ERROR - 2026-02-23 10:44:03 --> WorldTimeAPI no respondió
+ERROR - 2026-02-23 14:39:18 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2026-02-23 14:39:18 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-02-23 14:39:18 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-02-23 14:39:28 --> 404 Page Not Found: Securitytxt/index
+ERROR - 2026-02-23 14:39:28 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-02-23 14:39:28 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-02-23 14:39:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2026-02-23 14:39:29 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-02-23 14:39:29 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184

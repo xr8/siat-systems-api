@@ -1,0 +1,48 @@
+ERROR - 2026-03-22 00:50:17 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 01:25:57 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 01:27:22 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 01:27:24 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 01:27:27 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 02:10:47 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 02:14:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2026-03-22 02:14:46 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-22 02:14:46 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-22 02:56:09 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 06:31:55 --> 404 Page Not Found: Env/index
+ERROR - 2026-03-22 06:31:55 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-22 06:31:55 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-22 08:22:03 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2026-03-22 08:22:03 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-22 08:22:03 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-22 10:15:29 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 10:30:26 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 10:46:31 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 11:29:05 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 11:32:00 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 11:33:35 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 13:15:46 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 13:16:02 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 13:16:04 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 13:16:06 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 13:16:24 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 13:16:26 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 13:16:44 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:41:15 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:41:16 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:41:18 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:41:47 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:41:57 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:41:59 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:45:51 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:47:37 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:47:40 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:47:43 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:47:46 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:47:54 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:47:57 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 14:51:01 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 15:16:10 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 15:16:11 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 15:16:13 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 16:02:56 --> WorldTimeAPI no respondió
+ERROR - 2026-03-22 22:12:45 --> WorldTimeAPI no respondió

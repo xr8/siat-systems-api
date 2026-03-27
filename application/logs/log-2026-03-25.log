@@ -1,0 +1,72 @@
+ERROR - 2026-03-25 00:05:16 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 00:52:36 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 01:05:46 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 01:05:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2026-03-25 01:05:47 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 01:05:47 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 01:12:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2026-03-25 01:12:45 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 01:12:45 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 01:14:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2026-03-25 01:14:20 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 01:14:20 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 01:15:17 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 01:15:28 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 01:15:31 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 01:15:37 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 01:48:32 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 02:04:55 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 02:05:17 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 02:29:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2026-03-25 02:29:20 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 02:29:20 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 04:09:43 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 05:01:26 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 06:04:43 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 06:04:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2026-03-25 06:04:45 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 06:04:45 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-03-25 07:00:00 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 07:01:48 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 07:02:12 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 07:41:25 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 07:41:26 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 09:25:48 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 09:26:05 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 09:26:07 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 09:26:11 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 09:27:19 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 09:43:13 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:46:03 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:46:30 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:46:32 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:47:05 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:48:25 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:48:36 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:48:45 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:48:46 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:48:56 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:48:58 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:49:02 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:49:04 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:49:31 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:52:25 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:52:30 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:52:31 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:52:50 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 11:53:15 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 13:15:49 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 13:16:11 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 14:43:11 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 14:43:12 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 16:03:20 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 16:03:21 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 16:04:44 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 16:04:45 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 22:39:52 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 22:39:53 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 22:39:55 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 22:40:00 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 22:40:02 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 22:40:14 --> WorldTimeAPI no respondió
+ERROR - 2026-03-25 23:54:22 --> WorldTimeAPI no respondió

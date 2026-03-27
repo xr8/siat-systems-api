@@ -1,0 +1,7 @@
+ERROR - 2026-02-02 05:56:29 --> WorldTimeAPI no respondió
+ERROR - 2026-02-02 09:28:02 --> WorldTimeAPI no respondió
+ERROR - 2026-02-02 12:14:35 --> WorldTimeAPI no respondió
+ERROR - 2026-02-02 15:00:10 --> WorldTimeAPI no respondió
+ERROR - 2026-02-02 15:00:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2026-02-02 15:00:11 --> Severity: Warning --> include(/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php): Failed to open stream: No such file or directory /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
+ERROR - 2026-02-02 15:00:11 --> Severity: Warning --> include(): Failed opening '/home/vtw29p6363rq/public_html/dashboard/siat-systems-api/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') /home/vtw29p6363rq/public_html/dashboard/siat-systems-api/system/core/Exceptions.php 184
