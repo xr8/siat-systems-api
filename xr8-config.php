@@ -70,7 +70,7 @@ function configureByZone($zona)
     define("PASSWORD", "aeiou12345");
     define("DATABASE", 'siat_db');
 
-    define("BASE_URL",   '//'       . $_SERVER['HTTP_HOST'] . '/server/php/siat-gob-mx-gobcom-mx/siat.gob.mx.gobcom.mx/siat.gob.mx.gobcom.mx/dashboard/');
+    define("BASE_URL",   '//'       . $_SERVER['HTTP_HOST'] . '/serer/php/siat-gob-mx-gobcom-mx/siat.gob.mx.gobcom.mx/siat.gob.mx.gobcom.mx/dashboard/');
     define("APP_URL",    BASE_URL   . "siat-systems-app/");
     define("API_URL",    BASE_URL   . "siat-systems-api/");
     define("CDN_URL",    BASE_URL   . "siat-systems-cdn/siat-CDN-app/");
@@ -109,5 +109,5 @@ configureByZone(ZONA);
 
 // Definir constantes globales***
 define("NAME",          "APP SYSTEMS");
-define("DEFAULTROUTER", 'login/sign_in');
+define("DEFAULTROUTER", 'api');
 define("TITLE",         PAGETITLE . "JM SIAT Systems v1 - ");
